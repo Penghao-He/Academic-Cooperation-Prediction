@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+node2vec/_pycache_
+*.json
+data
+modified_data
+csv
+emb
+graph
