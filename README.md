@@ -7,7 +7,7 @@ The dataset used in this project can be accessed here: [DBLP-Citation-network V1
 
 ## Prerequisites
 Before running the main program, make sure you have preprocessed the dataset using "trans.py", 
-which turns the abstract of each paper into bag of words.
+which turns the abstract of each paper into bag of words. Also remember to install the dependencies in requirements.txt for node2vec.
 
 ## Default setting
 By default, the dataset we use start from 1980 to 2015 (training set from 1980 to 2009 and testing set from 2010 to 2015). 
