@@ -1,4 +1,4 @@
-# Cooperation Prediction
+# Academic Cooperation Prediction
 ## Introduction
 This project is to predict how many paper will be published by TWO researchers in the next *t* years if they work together.
 
